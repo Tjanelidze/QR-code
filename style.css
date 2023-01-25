@@ -50,8 +50,8 @@ img {
   color: hsl(228, 45%, 44%);
 }
 
-@media (max-width: 500px) {
+@media (min-width: 500px) {
   .container {
-    width: 340px;
+    width: 400px;
   }
 }
